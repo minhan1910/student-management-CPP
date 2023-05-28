@@ -1,0 +1,25 @@
+6
+Do Mai Nam
+13/8/2004
+Nam Dinh
+0.50
+Do Manh Nam
+19/7/2004
+Ninh Binh
+2.20
+Do Phuong Vinh
+25/1/2004
+Hai Duong
+3.90
+Tran Manh Nhung
+12/8/2004
+Bac Ninh
+3.90
+Nguyen Phuong Vinh
+6/3/2004
+Nghe An
+0.30
+Tran Hoai Phuong
+23/4/2004
+Nghe An
+3.30
